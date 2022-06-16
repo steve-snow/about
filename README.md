@@ -1,8 +1,8 @@
 # About
 
-Stephen Snow (Steve)
+Stephen Snow (**Steve**)
 
-> Full Stack Developer
+> **Full Stack Developer**
 
 [www.linkedin.com/in/stephen-p-snow](www.linkedin.com/in/stephen-p-snow)
 
@@ -10,29 +10,29 @@ Stephen Snow (Steve)
 
 ## The Journey
 
-- 1 Bachelor's in Computer Science
+- 1 **Bachelor's in Computer Science**
 
-- ~14 years as USAF Fighter Pilot (6 permanent locations, 3 contingency deployments, 2300+ hours flight time)
+- ~14 years as **USAF Fighter Pilot** (6 permanent locations, 3 contingency deployments, 2300+ hours flight time)
 
-- 1 Master's in Aeronautics
+- 1 **Master's in Aeronautics**
 
-- 1 Associates in Computer Science: Network Security
+- 1 Associates in **Computer Science: Network Security**
 
-- 3 years as primary caregiver for terminally ill daughter `#loveisasuperpower`
+- 3 years as **Primary Caregiver** for terminally ill daughter `#loveisasuperpower`
 
-- 4 years Electives Teacher / IT and Help Desk Support / Server and Network Admin for 2 schools, simultaneously
+- 4 years **Electives Teacher** / **IT** and **Help Desk Support** / **Server and Network Admin** for 2 schools, simultaneously
 
-- 1 Coding Bootcamp
+- 1 **Coding Bootcamp**
 
-- 1 Startup
+- 1 **Startup**
 
-- So many adventures
+- **So many adventures**
 
 ---
 
 ## Skills
 
-- JavaScript, Reactjs, C#, ASP.NET, .Net, T-SQL, HTML5, CSS4, RESTful API
+- **JavaScript, Reactjs, C#, ASP.NET, .Net, T-SQL, HTML5, CSS4, RESTful API**
 
 - Bootstrap 4, Material UI, jQuery, AJAX, Java, Python
 
@@ -52,7 +52,7 @@ Stephen Snow (Steve)
 
 ### Outlayr, Inc
 
-> • Software Developer (Full Stack)  
+> • **Software Developer (Full Stack)**  
 • March 2021 ... Present
 
 Outlayr is a screen-scanning, instantaneous conversion application, designed to help businesses sell in all web and mobile environments, bridging the gap between marketing and point-of-sale.  
@@ -75,7 +75,7 @@ Outlayr is a screen-scanning, instantaneous conversion application, designed to 
 
 ### Welrus, Inc
 
-> • Full Stack Developer: Contract Term  
+> • **Full Stack Developer: Contract Term**
 • October 2020-February 2021
 
 Welrus is an online platform that enables patients to shop for preventive and routine care services provided at local clinics nearby.  
@@ -96,7 +96,7 @@ Welrus is an online platform that enables patients to shop for preventive and ro
 
 ### Mannahouse Christian Academy
 
-> • Network / System Administrator  
+> • **Network / System Administrator**  
 • 2017-2020
 
 Senior systems administrator, Secondary Ed Tech Teacher, IT Help Desk
@@ -123,7 +123,7 @@ Senior systems administrator, Secondary Ed Tech Teacher, IT Help Desk
 
 ### Camas Christian Academy
 
-> • IT Support / Network Administrator  
+> • **IT Support / Network Administrator**
 • 2016-2020
 
 Network Administrator, IT support for Camas Christian Academy, Secondary Ed Tech Teacher
@@ -140,7 +140,7 @@ Network Administrator, IT support for Camas Christian Academy, Secondary Ed Tech
 
 ### United States Air Force, Active Duty
 
-> • Senior Pilot, Major  
+> • **Senior Pilot, Major**  
 • 1999-2013
 
 > `TIMS/ JPATS Subject Matter Expert` - Air Force Wing-Level thru Squadron-Level Administrator / Trainer / User - 2006-2011
@@ -185,21 +185,21 @@ ACMI Toolkit, a stand-alone Java app, translates aircraft flight data into playa
 
 Battalion Air Liaison Officer / Tactical Air Control Party
 
----
+- - - -
 
 ### Translation:
 
 > Plays well with others, maximizing their potential through service, instruction, and applied technology
 
----
+***
 
 ## Education
 
-`Master of Science, Aeronautics`, Embry-Riddle Aeronautical University (2013)
+**Master of Science, Aeronautics**, Embry-Riddle Aeronautical University (2013)
 
-`Bachelor of Science, Computer Science`, United States Air Force Academy (1999)
+**Bachelor of Science, Computer Science**, United States Air Force Academy (1999)
 
-`AAS Computer Science: Network Security`, Charter College (2014)
+**AAS Computer Science: Network Security**, Charter College (2014)
 
 - Windows Server Admin, Security +, Computer A+, Net +, Linux +, Virtualization, Cloud hosting
 
