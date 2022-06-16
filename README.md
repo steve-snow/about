@@ -177,13 +177,13 @@ ACMI Toolkit, a stand-alone Java app, translates aircraft flight data into playa
 
 - Self-taught Java
 
-> 2300+ hours of flight time mostly pilot-in-command or instructor in operational and training squadrons as an A-10 pilot and T-38C Instructor
+> 2300+ hours of flight time; mostly pilot-in-command or instructor in operational and training squadrons as an A-10 pilot and T-38C Instructor
 
 - A/OA-10A/C, AT/T-38A/B/C
 
 - 5 years formal training flight instructor
 
-`A-10`: CSAR Mission Commander, Instructor Pilot, Multi-ship Flight Lead, FAC-A, Functional Check Flight Pilot
+`A-10`: CSAR Rescue Mission Commander, Instructor Pilot, Multi-ship Flight Lead, FAC-A, Functional Check Flight Pilot
 
 `T-38C`: Instructor Pilot, Instructor of Upgrading Instructors: 'Introduction to Fighter Fundamentals'
 
