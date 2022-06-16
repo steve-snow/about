@@ -2,7 +2,7 @@
 
 Stephen Snow (Steve)
 
-Full Stack Developer
+> Full Stack Developer
 
 [www.linkedin.com/in/stephen-p-snow](www.linkedin.com/in/stephen-p-snow)
 
