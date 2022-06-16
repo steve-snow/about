@@ -189,13 +189,13 @@ ACMI Toolkit, a stand-alone Java app, translates aircraft flight data into playa
 
 Battalion Air Liaison Officer / Tactical Air Control Party / Joint Terminal Air Controller
 
-- - - -
+---
 
 ### Translation:
 
 > Plays well with others, maximizing their potential through service, instruction, and applied technology
 
-***
+---
 
 ## Education
 
