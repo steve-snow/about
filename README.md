@@ -189,7 +189,7 @@ Battalion Air Liaison Officer / Tactical Air Control Party
 
 ### Translation:
 
-> Plays well with others, maximizing their potential through service, instruction, or applied technology
+> Plays well with others, maximizing their potential through service, instruction, and applied technology
 
 ---
 
