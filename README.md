@@ -38,7 +38,7 @@ Full Stack Developer
 
 - Visual Studio 2022, VS Code, SQL Server Mgt Studio, Yarn/NPM, Eclipse, PyCharm
 
-- Git, Github, Trello, Jira, Docker, MS Office Suite, Figma, Drawio, Sketchup, AutoCAD, Lightroom, InDesign
+- Git, Github, Trello, Jira, Docker, MS Office Suite, Figma, Drawio, Sketchup, AutoCAD, Lightroom, InDesign, Gimp
 
 - Admin: Windows Server 20012R2 / 2008 / 2003, Windows 11 / 10 / 8.1 / 8 / 7, LINUX, MacOS
 
@@ -52,8 +52,8 @@ Full Stack Developer
 
 ### Outlayr, Inc
 
-`• Software Developer (Full Stack)  
-• March 2021 ... Present`
+> • Software Developer (Full Stack)  
+• March 2021 ... Present
 
 Outlayr is a screen-scanning, instantaneous conversion application, designed to help businesses sell in all web and mobile environments, bridging the gap between marketing and point-of-sale.  
 
@@ -75,8 +75,8 @@ Outlayr is a screen-scanning, instantaneous conversion application, designed to 
 
 ### Welrus, Inc
 
-`• Full Stack Developer: Contract Term  
-• October 2020-February 2021`
+> • Full Stack Developer: Contract Term  
+• October 2020-February 2021
 
 Welrus is an online platform that enables patients to shop for preventive and routine care services provided at local clinics nearby.  
 
@@ -96,8 +96,8 @@ Welrus is an online platform that enables patients to shop for preventive and ro
 
 ### Mannahouse Christian Academy
 
-`• Network / System Administrator  
-• 2017-2020`
+> • Network / System Administrator  
+• 2017-2020
 
 Senior systems administrator, Secondary Ed Tech Teacher, IT Help Desk
 
@@ -123,8 +123,8 @@ Senior systems administrator, Secondary Ed Tech Teacher, IT Help Desk
 
 ### Camas Christian Academy
 
-`• IT Support / Network Administrator  
-• 2016-2020`
+> • IT Support / Network Administrator  
+• 2016-2020
 
 Network Administrator, IT support for Camas Christian Academy, Secondary Ed Tech Teacher
 
@@ -140,10 +140,10 @@ Network Administrator, IT support for Camas Christian Academy, Secondary Ed Tech
 
 ### United States Air Force, Active Duty
 
-`• Senior Pilot, Major  
-• 1999-2013`
+> • Senior Pilot, Major  
+• 1999-2013
 
-`TIMS/ JPATS Subject Matter Expert` - Air Force Wing-Level thru Squadron-Level Administrator / Trainer / User - 2006-2011
+> `TIMS/ JPATS Subject Matter Expert` - Air Force Wing-Level thru Squadron-Level Administrator / Trainer / User - 2006-2011
 
 TIMS is the primary training and flight management application for USAF training command (AETC) logging thousands of events daily.
 
@@ -157,7 +157,7 @@ TIMS is the primary training and flight management application for USAF training
 
 - User training POC
 
-`ACMI Toolkit` - Sole developer - 2010-2013 - (ACMI: Aerial Combat Maneuvering Instrumentation)
+> `ACMI Toolkit` - Sole developer - 2010-2013 - (ACMI: Aerial Combat Maneuvering Instrumentation)
 
 ACMI Toolkit, a stand-alone Java app, translates aircraft flight data into playable graphical user interface as a performance analysis tool.  Ideal for identifying true flight performance.
 
@@ -177,7 +177,7 @@ ACMI Toolkit, a stand-alone Java app, translates aircraft flight data into playa
 
 - Self-taught Java
 
-2300+ hours of flight time mostly pilot-in-command or instructor in operational and training squadrons as an A-10 pilot and T-38C Instructor.
+> 2300+ hours of flight time mostly pilot-in-command or instructor in operational and training squadrons as an A-10 pilot and T-38C Instructor
 
 `A-10`: CSAR Mission Commander, Instructor Pilot, Multi-ship Flight Lead, FAC-A, FCF Pilot
 
@@ -187,17 +187,19 @@ Battalion Air Liaison Officer / Tactical Air Control Party
 
 ---
 
-Translation: `Plays well with others, maximizing their potential through service, instruction, or applied technology`
+### Translation:
+
+> Plays well with others, maximizing their potential through service, instruction, or applied technology
 
 ---
 
 ## Education
 
-Master of Science, Aeronautics, Embry-Riddle Aeronautical University (2013)
+`Master of Science, Aeronautics`, Embry-Riddle Aeronautical University (2013)
 
-Bachelor of Science, Computer Science, United States Air Force Academy (1999)
+`Bachelor of Science, Computer Science`, United States Air Force Academy (1999)
 
-AAS Computer Science: Network Security, Charter College (2014)
+`AAS Computer Science: Network Security`, Charter College (2014)
 
 - Windows Server Admin, Security +, Computer A+, Net +, Linux +, Virtualization, Cloud hosting
 
